@@ -75,7 +75,7 @@ ACash_BANK & ATM Software is a sophisticated banking software solution built in 
 ![Setup](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/dbb0c675-b010-4da4-9068-27efc54608c9) 
 
 ## Demo
-[Provide a link to a demo video or a live demo of the project]
+https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/1d567e9b-9b48-4188-91e2-b9cc41ef5149
 
 ## Download Software Setup
 [Download ACash_BANK & ATM Software](https://drive.google.com/file/d/1yuS3EGR8IscQJtSdd2mAfNIR5tTeQNTN/view?usp=sharing)
