@@ -29,46 +29,49 @@ ACash_BANK & ATM Software is a sophisticated banking software solution built in 
 
 ## Screenshots
 
-### Dashboard
+### Installation
 ![Dashboard](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/e6a0bf11-834d-4011-9ad3-3379758ff272)   
 
-### Transaction History
+### Home 
 ![Transaction History](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/8f27dfca-2b5f-4902-84b6-d2f48fb61af5)  
 
-### Account Settings
+### Login
 ![Account Settings](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/eec6c270-d053-4372-94fb-063078684588)  
 
-### ATM Interface
+### Signup
 ![ATM Interface](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/cafd1209-9467-431c-b3b5-a4e40eaf594a) 
 
-### QR Code Scanner
+### Registration
 ![QR Code Scanner](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/376d366f-1128-499a-9dd2-ff93e58b6b0d) 
 
-### Admin Dashboard
+### Dashboard
 ![Admin Dashboard](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/d196fe8a-c2f9-480f-81a4-b83a289c7959) 
 
 ### User Management
 ![User Management](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/e0886fba-a288-404f-b1d2-58416d5cb7e7) 
 
-### Transaction Approval
+### Debit Card
 ![Transaction Approval](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/4003550f-a3a2-49b0-863f-03e325cb374f) 
 
-### ATM Voice Assistant
+### Transaction
 ![ATM Voice Assistant](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/ad4d46c0-8041-453f-8303-cdb2ab331d6d) 
 
-### QR Code Scanner (2)
+###  Money Transfer
 ![QR Code Scanner (2)](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/9cd27321-6a7a-4902-b1f3-4e498d3d4c60) 
 
 ### Admin Functions
 ![Admin Functions](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/ff83eb11-7052-4c56-9a25-b97ee5df884b) 
 
-### Database Management
-![Database Management](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/379eae25-1109-46b7-82a7-d9d28b8e8256) 
+### Home 
+![Transaction History](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/8f27dfca-2b5f-4902-84b6-d2f48fb61af5)
 
-### Installation
+### QR Code Scanner
+![image](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/c5a818fe-c141-4311-a466-ae4e7eae4186)
+
+### ATM Interface
 ![Installation](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/2994c79b-64d2-450c-af8c-4b6a4d6bfc75) 
 
-### Setup
+### Enter Amount
 ![Setup](https://github.com/AkashSingh1505/ACash-Bank-Software/assets/139606462/dbb0c675-b010-4da4-9068-27efc54608c9) 
 
 ## Demo
